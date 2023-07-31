@@ -15,3 +15,4 @@ If you want to train yolov8 with the same dataset I use in the video, this is wh
 
 6. Execute **create_dataset_yolo_format.py**, changing **DATA_ALL_DIR** by **$DOWNLOAD_FOLDER**.
 # YOLOv8_on_custom_dataset
+# YOLOv8_on_custom_dataset
